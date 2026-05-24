@@ -56,6 +56,8 @@ while True:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61d4c6dc-6e3b-4219-8c92-9442f5972f11" />
 
 ## OUPUT
+<img width="739" height="243" alt="image" src="https://github.com/user-attachments/assets/33ffb861-bf06-4e8c-a2fd-d6beb4dc94e1" />
+
 <img width="1044" height="200" alt="image" src="https://github.com/user-attachments/assets/a5726d24-a831-42a8-b771-c70d7dae4d79" />
 <img width="1063" height="277" alt="image" src="https://github.com/user-attachments/assets/372519ea-44b7-473f-96e0-1a2f745b212a" />
 
